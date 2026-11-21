@@ -101,7 +101,9 @@
       ],
       "resize_type": "scale by multiplier",
       "resize_type.scale": 2,
-      "quality": "ULTRA"
+      "quality": "ULTRA",
+      "strength": 1.0,
+      "image_encoding": "8-bit RGB"
     }
   },
   "61": {
